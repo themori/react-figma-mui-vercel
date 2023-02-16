@@ -8,12 +8,12 @@
 
 ## Page demo
 
-- [Dashboard](https://vercel.app/dashboard/app)
-- [Users](https://vercel.app/dashboard/user)
-- [Product](https://vercel.app/dashboard/products)
-- [Blog](https://vercel.app/dashboard/blog)
-- [Login](https://vercel.app/login)
-- [Not Found](https://vercel.app/404)
+- [Dashboard](https://react-figma-mui-vercel.vercel.app/dashboard/app)
+- [Users](https://react-figma-mui-vercel.vercel.app/dashboard/user)
+- [Product](https://react-figma-mui-vercel.vercel.app/dashboard/products)
+- [Blog](https://react-figma-mui-vercel.vercel.app/dashboard/blog)
+- [Login](https://react-figma-mui-vercel.vercel.app/login)
+- [Not Found](https://react-figma-mui-vercel.vercel.app/404)
 
 ## Getting started
 
